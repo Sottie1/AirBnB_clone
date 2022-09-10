@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Martins Akhivbareme** - [Izimartin](https://github.com/izimartin)
+* **Sottie1** - [Izimartin](https://github.com/Sottie1)
