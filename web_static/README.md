@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Sottie1** - [Izimartin](https://github.com/Sottie1)
+* **Sottie1** - [Sottie1](https://github.com/Sottie1)
